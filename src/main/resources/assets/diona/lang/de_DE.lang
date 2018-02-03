@@ -1,0 +1,141 @@
+# More Planets 1.7.10 : Diona = GERMAN
+
+# BLOCKS
+tile.diona_block.surface_rock.name=Diona Oberflächengestein
+tile.diona_block.sub_surface.name=Diona Untergrundgestein
+tile.diona_block.rock.name=Diona Gestein
+tile.diona_block.cobblestone.name=Diona Bruchstein
+tile.diona_block.quontonium_ore.name=Diona Quontoniumerz
+tile.diona_block.fronisium_ore.name=Diona Fronisiumerz
+tile.diona_block.copper_ore.name=Diona Kupfererz
+tile.diona_block.tin_ore.name=Diona Zinnerz
+tile.diona_block.silicon_ore.name=Diona Siliziumerz
+tile.diona_block.aluminum_ore.name=Diona Aluminiumerz
+tile.diona_block.quontonium_block.name=Diona Quontoniumblock
+tile.diona_block.smooth_quontonium.name=Diona glattes Quontonium
+tile.diona_block.quontonium_brick.name=Diona Quontoniumziegel
+tile.diona_block.chiseled_quontonium.name=Diona gemeißeltes Quontonium
+tile.diona_block.dungeon_brick.name=Diona Verließziegel
+tile.diona_cobblestone_stairs.name=Diona Bruchsteintreppen
+tile.quontonium_brick_stairs.name=Quontoniumziegeltreppen
+tile.chiseled_quontonium_stairs.name=Gemeißelte Quontoniumtreppen
+tile.diona_dungeon_brick_stairs.name=Diona Verließziegeltreppen
+tile.fronisium_tnt.name=Fronisium TNT
+tile.minion_creeper_egg.name=Creeper Minion Ei
+tile.diona_treasure_chest.name=Sufe 4 Diona Schatzkiste
+tile.diona_ancient_chest.name=Diona uralte Kiste
+tile.fronisium_block.name=Fronisiumblock
+
+# SLABS
+tile.mp_stone_half_slab1.diona.name=Diona Bruchsteinstufe
+tile.mp_stone_half_slab1.quonBrick.name=Quontoniumziegelstufe
+tile.mp_stone_half_slab1.chiseledQuon.name=Gemeißelte Quontoniumstufe
+tile.dungeon_brick_half_slab1.dionaBrick.name=Diona Verließziegelstufe
+
+# WALLS
+tile.mp_wall.diona.name=Diona Bruchsteinwand
+tile.mp_wall.quonBrick.name=Quontoniumziegelwand
+tile.mp_wall.quonChiseled.name=Gemeißelte Quontoniumwand
+tile.mp_dungeon_brick_wall.dionaBrick.name=Diona Verließziegelwand
+
+# ITEMS
+item.diona_item.quontonium_ingot.name=Quontonium Barren
+item.diona_item.fronisium_ingot.name=Fronisium Barren
+item.diona_item.compressed_quontonium.name=Gepresstes Quontonium
+item.diona_item.compressed_fronisium.name=Gepresstes Fronisium
+item.diona_item.red_canvas.name=Rotes Leinentuch
+item.diona_item.white_canvas.name=Weißes Leinentuch
+item.diona_item.blue_canvas.name=Blaues Leinentuch
+item.diona_item.thai_canvas_bottom.name=Thai Leinentuch
+item.diona_item.thai_canvas_top.name=Thai Leinentuch
+item.diona_item.quontonium_stick.name=Quontonium Stock
+item.diona_item.fronisium_stick.name=Fronisium Stock
+item.diona_item.green_redstone_torch.name=Grüne Redstonefackel
+item.mp_flag.thai.name=Thai Flagge
+item.tier_4_rocket_module.tier4_heavy_duty_plate.name=Robuste Platte
+item.diona_treasure_key.name=Stufe 4 Verließschlüssel
+item.tier_4_rocket_module.tier4_nose_cone.name=Stufe 4 Nasenkegel
+item.diona_item.tier5_heavy_duty_plate.name=Robuste Platte
+item.tier_4_rocket_module.tier4_rocket_engine.name=Stufe 4 Raketenantrieb
+item.tier_4_rocket_module.tier4_booster.name=Stufe 4 Hilfstriebwerk
+item.tier_4_rocket_module.tier4_nose_cone_no_flag.name=Stufe 4 Nasenkegel
+item.tier_4_rocket_module.tier5_rocket_engine.name=Stufe 5 Raketenantrieb
+item.tier_4_rocket_module.tier5_booster.name=Stufe 5 Hilfstriebwerk
+item.tier_4_rocket_schematic.tier4_rocket_schematic.name=NASA Werkbank-Bauplan
+item.tier_4_rocket_schematic.tier4_rocket_schematic_no_flag.name=NASA Werkbank-Bauplan
+item.laser_gun.name=Laserkanone
+item.normal_charge.laser_charge.name=Normale Laserladung
+item.hyper_charge.laser_charge.name=Hyper Laserladung
+item.emp_charge.laser_charge.name=EMP Laserladung
+item.uranium_charge.laser_charge.name=Uran Laserladung
+item.icy_poison_charge.laser_charge.name=Eisiges Gift Laserladung
+item.tier_4_rocket.name=Stufe 4 Rakete
+item.mp_flag.laos.name=Laos-Flagge
+item.mp_flag.singapore.name=Singapur-Flagge
+item.mp_flag.myanmar.name=Myanmar-Flagge
+item.mp_flag.malaysia.name=Malaysa-Flagge
+item.mp_flag.vietnam.name=Vietnam-Flagge
+item.mp_flag.indonesia.name=Indonesien-Flagge
+item.mp_flag.philippines.name=Philippinen-Flagge
+item.mp_flag.cambodia.name=Kambodscha-Flagge
+item.mp_flag.brunei.name=Brunei-Flagge
+
+# DESCRIPTION
+desc.tier4.name=Stufe 4
+desc.tier5.name=Stufe 5
+desc.rocket.noflag.name=Keine Flagge
+desc.red.canvas.name=Rot
+desc.white.canvas.name=Weiß
+desc.blue.canvas.name=Blau
+
+# SCHEMATIC
+schematic.tier4.rocket.name=Stufe 4 Rakete
+schematic.tier4.rocket.noflag.name=Stufe 4 Rakete keine Flagge
+
+# TOOLS
+item.quontonium_pickaxe.name=Quontonium Spitzhacke
+item.quontonium_axe.name=Quontonium Axt
+item.quontonium_hoe.name=Quontonium Hacke
+item.quontonium_spade.name=Quontonium Schaufel
+item.quontonium_sword.name=Quontonium Schwert
+item.fronisium_pickaxe.name=Fronisium Spitzhacke
+item.fronisium_axe.name=Fronisium Axt
+item.fronisium_hoe.name=Fronisium Hacke
+item.fronisium_spade.name=Fronisium Schaufel
+item.fronisium_sword.name=Fronisium Schwert
+
+# ARMORS
+item.quontonium_helmet.name=Quontonium Helm
+item.quontonium_chestplate.name=Quontonium Brustplatte
+item.quontonium_leggings.name=Quontonium Beinschutz
+item.quontonium_boots.name=Quontonium Stiefel
+item.fronisium_helmet.name=Fronisium Helm
+item.fronisium_chestplate.name=Fronisium Brustplatte
+item.fronisium_leggings.name=Fronisium Beinschutz
+item.fronisium_boots.name=Fronisium Stiefel
+item.breathable_quontonium_helmet.name=Beatmeter Quontonium Helm
+item.breathable_fronisium_helmet.name=Beatmeter Fronisium Helm
+
+# ENTITIES
+entity.MorePlanet.SpaceWolf.name=Weltraum-Wolf
+entity.MorePlanet.EvolvedEnderman.name=Entwickelter Enderman
+entity.MorePlanet.DustSludgeling.name=Staub Sludgeling
+entity.MorePlanet.DionaCreeperBoss.name=Diona Creeper Boss
+entity.MorePlanet.DionaMinionCreeper.name=Diona Minion Creeper
+
+# GUI
+
+# CONTAINER
+container.diona.treasurechest.name=Diona Schatzkiste
+container.diona.ancientchest.name=Diona uralte Kiste
+schematics.container.rocket.tier4=Stufe 4 Rakete
+schematics.container.rocket.noflag.tier4=Stufe 4 Rakete keine Flagge
+
+# PLANET
+planet.diona=Diona
+
+# POTION
+potion.emp=EMP
+
+# DEATH MESSAGES
+death.attack.laser=%1$s wurde durch einen Laserschuss getötet.
