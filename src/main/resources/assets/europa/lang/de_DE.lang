@@ -1,0 +1,58 @@
+# More Planets 1.7.10 : Europa = GERMAN
+
+# BLOCKS
+tile.europa_ice.ice.name=Europa Eis
+tile.europa_ice.dirty.name=Dreckiges Europa Eis
+tile.europa_ice.dense.name=Dichtes Europa Eis
+tile.packed_europa_ice.name=Packed Europa Eis
+tile.europa_snow_block.name=Europa Schnee
+tile.europa_ice_slush.name=Europa Eismatsch
+tile.europa_salt.name=Europa Salz
+tile.europa_water_bomb.name=Europa Wasserbombe
+tile.europa_geyser.default.name=Europa Unterwassergeysir
+tile.europa_geyser.smoke.name=Europa Unterwasserrauchgeysir
+tile.europa_snow_layer.name=Europa Schnee
+tile.europa_log.europa_wood.name=Europa Holz
+tile.europa_planks.name=Europa Holzplanken
+tile.europa_leaves.europa.name=Europa Blätter
+tile.europa_sapling.name=Europa Setzling
+tile.europa_sand.name=Europa Sand
+tile.europa_sandstone.europaSandstone.name=Europa Sandstein
+tile.europa_sandstone.europaSandstoneChiseled.name=Gemeißelter Europa Sandstein
+tile.europa_sandstone.europaSandstoneSmooth.name=Glatter Europa Sandstein
+tile.half_europa_sandstone_slab.europa.name=Europa Sandsteinstufe
+tile.europa_fence.name=Europa Zaun
+tile.europa_fence_gate.name=Europa Zauntor
+tile.europa_sandstone_stairs.name=Europa Sandsteintreppen
+tile.europa_wood_stairs.name=Europa Holztreppen
+item.europa_door.name=Europa Tür
+tile.mp_wood_half_slab.europaWood.name=Europa Holzstufe
+
+# ITEMS
+item.europa_water_bucket.name=Europa Wassereimer
+item.europa_apple.name=Europa Apfel
+item.europa_food.raw_europa_eel_meat.name=Rohes Europa Aalfleisch
+item.europa_food.cooked_europa_eel_meat.name=Gekochtes Europa Aalfleisch
+item.europa_gunpowder.name=Europa Schießpulver
+
+# DESCRIPTION
+
+# SCHEMATIC
+
+# TOOLS
+
+# ARMORS
+
+# ENTITIES
+entity.MorePlanet.EuropaSquid.name=Europa Tintenfisch
+entity.MorePlanet.EuropaCrab.name=Europa Krabbe
+
+# GUI
+
+# CONTAINER
+
+# PLANET
+
+# POTION
+
+# DEATH MESSAGES
