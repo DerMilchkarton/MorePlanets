@@ -1,0 +1,30 @@
+# More Planets 1.7.10 : Deimos = GERMAN
+
+# BLOCKS
+tile.deimos_block.surface_rock.name=Deimos Oberflächengestein
+tile.deimos_block.sub_surface_rock.name=Deimos Untergrundgestein
+tile.deimos_block.rock.name=Deimos Gestein
+tile.deimos_block.cobblestone.name=Deimos Bruchstein
+tile.deimos_block.tin_ore.name=Deimos Zinnerz
+tile.deimos_block.copper_ore.name=Deimos Kupfererz
+tile.deimos_block.iron_ore.name=Deimos Eisenerz
+tile.deimos_block.desh_ore.name=Deimos Desh-Erz
+
+# SLABS
+
+# WALLS
+
+# ITEMS
+
+# TOOLS
+
+# ARMORS
+
+# ENTITIES
+
+# GUI
+
+# CONTAINER
+
+# PLANET
+moon.deimos=Deimos
