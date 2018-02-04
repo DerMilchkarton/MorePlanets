@@ -1,0 +1,39 @@
+# More Planets 1.7.10 : Io = GERMAN
+
+# BLOCKS
+tile.io_block.surface_rock.name=Io Oberflächengestein
+tile.io_block.sub_surface_rock.name=Io Untergrundgestein
+tile.io_block.rock.name=Io Gestein
+tile.io_block.cobblestone.name=Io Bruchstein
+tile.io_block.sulfur_ore.name=Io Schwefelerz
+tile.io_block.ash_stone.name=Io Aschenstein
+tile.io_block.ash_cobblestone.name=Io Aschenbruchstein
+tile.io_block.silicate_rock.name=Io Silikatstein
+tile.io_block.dungeon_brick.name=Io Verließziegel
+tile.io_magma_rock.magma_rock.name=Io Magmastein
+tile.io_magma_rock.sulfur_rock.name=Io Schwefelstein
+
+# SLABS
+
+# WALLS
+
+# ITEMS
+item.titanium_bucket.name=Titaneimer
+item.io_lava_bucket.name=Io Lavaeimer
+item.liquid_red_sulfur_bucket.name=Roter Flüssigschwefeleimer
+item.liquid_yellow_sulfur_bucket.name=Gelber Flüssigschwefeleimer
+item.liquid_orange_sulfur_bucket.name=Oranger Flüssigschwefeleimer
+item.liquid_brown_sulfur_bucket.name=Brauner Flüssigschwefeleimer
+item.io_black_lava_bucket.name=Schwarzer Io Lavaeimer
+
+# TOOLS
+
+# ARMORS
+
+# ENTITIES
+
+# GUI
+
+# CONTAINER
+
+# PLANET
