@@ -1,0 +1,56 @@
+# More Planets 1.7.10 : Mercury = GERMAN
+
+# BLOCK
+tile.mercury_block.surface_rock.name=Merkur Oberflächengestein
+tile.mercury_block.sub_surface_rock.name=Merkur Untergrundgestein
+tile.mercury_block.rock.name=Merkur Gestein
+tile.mercury_block.cobblestone.name=Merkur Bruchstein
+tile.mercury_block.tin_ore.name=Merkur Zinnerz
+tile.mercury_block.copper_ore.name=Merkur Kupfererz
+tile.mercury_block.aluminum_ore.name=Merkur Aluminiumerz
+tile.mercury_block.iron_ore.name=Merkur Eisenerz
+tile.mercury_block.metal_meteoric_iron_ore.name=Metallisches meteorisches Eisenerz
+tile.mercury_block.silicate_rock.name=Merkur Silikatgestein
+tile.mercury_block.solid_metal_meteoric_iron.name=Massives metallisches meteorisches Eisenerz
+tile.mercury_block.dungeon_brick.name=Merkur Verließziegel
+tile.metallic_rock.name=Metallisches Gestein
+tile.mercury_ice.name=Dreckiges Merkur Eis
+tile.mercury_ancient_chest.name=Merkur uralte Kiste
+tile.mercury_treasure_chest.name=Merkur Schatzkiste
+tile.mercury_cobblestone_stairs.name=Merkur Bruchsteintreppe
+tile.mercury_dungeon_brick_stairs.name=Merkur Verließziegeltreppe
+
+# SLABS
+tile.mp_stone_half_slab2.mercury.name=Merkur Bruchsteinstufe
+tile.dungeon_brick_half_slab1.mercury.name=Merkur Verließziegelstufe
+
+# WALLS
+tile.mp_wall.mercury.name=Merkur Bruchsteinwand
+tile.mp_dungeon_brick_wall.mercury.name=Merkur Verließziegelwand
+
+# ITEMS
+item.mercury_item.metallic_shard.name=Metallische Scherbe
+item.mercury_item.raw_metal_meteoric_iron.name=Unverarbeitetes metallisches meteorisches Eisen
+item.mercury_item.metallic_ingot.name=Metallischer Barren
+item.mercury_item.metal_meteoric_iron_ingot.name=Metallischer meteorischer Eisen-Barren
+item.mercury_item.compressed_metallic.name=Gepresstes Metallisches
+item.mercury_item.compressed_metal_meteoric_iron.name=Gepresstes metallisches meteorisches Eisen
+item.mercury_item.gravity_core.name=Gravitationskern
+item.mercury_item.gravity_controller.name=Gravitationssteuergerät
+item.dirty_water_bucket.name=Dreckiger Wassereimer
+
+# TOOLS
+
+# ARMORS
+
+# ENTITIES
+
+# DESCRIFTION
+
+# DEATH MESSSAGE
+
+# CONTAINER
+container.mercury.treasurechest.name=Merkur Schatzkiste
+container.mercury.ancientchest.name=Merkur uralte Kiste
+
+# PLANET
